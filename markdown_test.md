@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<title>Hello Strapdown</title>
+
+<xmp theme="united" style="display:none;">
+# Markdown text goes in here
 
 ## Built With
 
@@ -19,3 +25,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ```
 test
 ```
+</xmp>
+
+<script src="http://strapdownjs.com/v/0.2/strapdown.js"></script>
+</html>
+
+
+
